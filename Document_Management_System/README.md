@@ -1,8 +1,8 @@
 # 📁 Document Management System
 
-**Author:** Vandana Tanwar  
+**Author:** JAI TIWARI 
 **Project Type:** DBMS / Oracle SQL  
-**Date Generated:** 2025-10-27
+**Date Generated:** 2025-10-29
 
 ## 📝 Project Description
 The Document Management System (DMS) handles document storage, versioning, access control, and workflow management with metadata tracking.  
